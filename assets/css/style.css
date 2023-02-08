@@ -5,17 +5,11 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@import url('https://cdn.rawgit.com/sh4hids/bangla-web-fonts/charu-chandan-unicode/stylesheet.css');
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri');
 
-@font-face {
-  font-family: 'FN Mahfuj Oa-Borno';
-  src: url('FNMahfujOaBorno.woff2') format('woff2'),
-      url('FNMahfujOaBorno.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Hind Siliguri', sans-serif;
   color: #444444;
 }
 
@@ -35,7 +29,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "FN Mahfuj Oa-Borno", sans-serif;
+  font-family: 'Hind Siliguri', sans-serif;
+  font-family: 'Hind Siliguri', sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -145,10 +140,10 @@ h6 {
   margin: 0;
   padding: 0;
   line-height: 1;
-  font-weight: 500;
+  font-weight: 800;
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-family: "FN Mahfuj Oa-Borno", sans-serif;
+  font-family: 'Charu Chandan Unicode';
 }
 
 #header .logo a {
@@ -449,14 +444,14 @@ h6 {
   font-weight: 500;
   line-height: 56px;
   color: #fff;
-  font-family: "FN Mahfuj Oa-Borno", sans-serif;
+  font-family: 'Hind Siliguri', sans-serif;
 }
 
 #hero h2 {
   color: #eee;
   margin: 10px 0 0 0;
   font-size: 50px;
-  font-family: "FN Mahfuj Oa-Borno", sans-serif;
+  font-family: 'Hind Siliguri', sans-serif;
 }
 
 #hero .btn-get-started {
@@ -576,7 +571,7 @@ section {
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 500;
-  font-family: "FN Mahfuj Oa-Borno", sans-serif;
+  font-family: 'Hind Siliguri', sans-serif;
   font-size: 26px;
 }
 
